@@ -1,0 +1,40 @@
+#search-input {
+  display: inline-block;
+  width: auto;
+}
+
+.d-flex {
+  display: flex;
+  justify-content: center;
+}
+
+#fa-button {
+  display: flex;
+  justify-content: center;
+  margin-top: 4%;
+}
+
+#data-panel {
+  margin: 2px 5%;
+}
+
+.fa {
+  margin-right: 2%;
+}
+
+.card-post {
+  postion: relative;
+}
+
+.gridheart {
+  position: absolute;
+  margin: 5%;
+  z-index: 1;
+  color: tomato;
+  font-size: 20px;
+}
+
+.list-group-item {
+  display: flex;
+  justify-content: space-between;
+}
